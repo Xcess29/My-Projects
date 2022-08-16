@@ -1,0 +1,10 @@
+@media  screen and (max-width: 1020px) {
+    .login-img img {
+        display: none;
+    }
+    .login-form {
+        margin: auto 0;
+        display: flex;
+        justify-content: center;
+    }
+}
